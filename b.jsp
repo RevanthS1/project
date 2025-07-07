@@ -5,5 +5,5 @@ int b=5;
 
 C= a+b;
 
-Print("Sum =" c);
+Printf ("Sum =" c);
 }
